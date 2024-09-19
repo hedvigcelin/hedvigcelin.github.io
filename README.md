@@ -1,4 +1,4 @@
-# hedvigcelin.github.io
+# Hedvig Alm
 <!DOCTYPE html>
 <html lang="en">
 <head>
